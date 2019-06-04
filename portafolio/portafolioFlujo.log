@@ -1,0 +1,1509 @@
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7000) (preloaded format=pdflatex 2019.4.30)  4 JUN 2019 03:57
+entering extended mode
+**./portafolioFlujo.tex
+(portafolioFlujo.tex
+LaTeX2e <2018-12-01>
+(/home/angel/.miktex/texmfs/install/tex/latex/base/article.cls
+Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
+(/home/angel/.miktex/texmfs/install/tex/latex/base/size10.clo
+File: size10.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+)
+\c@part=\count80
+\c@section=\count81
+\c@subsection=\count82
+\c@subsubsection=\count83
+\c@paragraph=\count84
+\c@subparagraph=\count85
+\c@figure=\count86
+\c@table=\count87
+\abovecaptionskip=\skip41
+\belowcaptionskip=\skip42
+\bibindent=\dimen102
+)
+(/home/angel/.miktex/texmfs/install/tex/latex/base/inputenc.sty
+Package: inputenc 2018/08/11 v1.3c Input encoding file
+\inpenc@prehook=\toks14
+\inpenc@posthook=\toks15
+)
+(/home/angel/.miktex/texmfs/install/tex/generic/babel/babel.sty
+Package: babel 2019/04/03 3.29 The Babel package
+
+(/home/angel/.miktex/texmfs/install/tex/generic/babel/switch.def
+File: switch.def 2019/04/03 3.29 Babel switching mechanism
+)
+*************************************
+* Local config file bblopts.cfg used
+*
+(/home/angel/.miktex/texmfs/install/tex/latex/arabi/bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(/home/angel/.miktex/texmfs/install/tex/latex/babel-spanish/spanish.ldf
+Language: spanish.ldf 2016/03/03 v5.0p Spanish support from the babel system
+
+(/home/angel/.miktex/texmfs/install/tex/generic/babel/babel.def
+File: babel.def 2019/04/03 3.29 Babel common definitions
+\babel@savecnt=\count88
+\U@D=\dimen103
+
+(/home/angel/.miktex/texmfs/install/tex/generic/babel/txtbabel.def)
+\bbl@dirlevel=\count89
+)
+
+Package babel Warning: No hyphenation patterns were preloaded for
+(babel)                the language `Spanish' into the format.
+(babel)                Please, configure your TeX system to add them and
+(babel)                rebuild the format. Now I will use the patterns
+(babel)                preloaded for \language=0 instead on input line 51.
+
+\l@spanish = a dialect from \language0
+\es@quottoks=\toks16
+\es@quotdepth=\count90
+Package babel Info: Making " an active character on input line 561.
+Package babel Info: Making . an active character on input line 662.
+Package babel Info: Making < an active character on input line 707.
+Package babel Info: Making > an active character on input line 707.
+)) (/home/angel/.miktex/texmfs/install/tex/latex/pdfpages/pdfpages.sty
+Package: pdfpages 2017/10/31 v0.5l Insert pages of external PDF documents (AM)
+
+(/home/angel/.miktex/texmfs/install/tex/latex/base/ifthen.sty
+Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(/home/angel/.miktex/texmfs/install/tex/latex/tools/calc.sty
+Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
+\calc@Acount=\count91
+\calc@Bcount=\count92
+\calc@Adimen=\dimen104
+\calc@Bdimen=\dimen105
+\calc@Askip=\skip43
+\calc@Bskip=\skip44
+LaTeX Info: Redefining \setlength on input line 80.
+LaTeX Info: Redefining \addtolength on input line 81.
+\calc@Ccount=\count93
+\calc@Cskip=\skip45
+)
+(/home/angel/.miktex/texmfs/install/tex/latex/eso-pic/eso-pic.sty
+Package: eso-pic 2018/04/12 v2.0h eso-pic (RN)
+
+(/home/angel/.miktex/texmfs/install/tex/generic/oberdiek/atbegshi.sty
+Package: atbegshi 2016/06/09 v1.18 At begin shipout hook (HO)
+
+(/home/angel/.miktex/texmfs/install/tex/generic/oberdiek/infwarerr.sty
+Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
+)
+(/home/angel/.miktex/texmfs/install/tex/generic/oberdiek/ltxcmds.sty
+Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+)
+(/home/angel/.miktex/texmfs/install/tex/generic/oberdiek/ifpdf.sty
+Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+))
+(/home/angel/.miktex/texmfs/install/tex/latex/graphics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks17
+)
+(/home/angel/.miktex/texmfs/install/tex/latex/xcolor/xcolor.sty
+Package: xcolor 2016/05/11 v2.12 LaTeX color extensions (UK)
+
+(/home/angel/.miktex/texmfs/install/tex/latex/graphics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 225.
+
+(/home/angel/.miktex/texmfs/install/tex/latex/graphics-def/pdftex.def
+File: pdftex.def 2018/01/08 v1.0l Graphics/color driver for pdftex
+)
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1348.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1352.
+Package xcolor Info: Model `RGB' extended on input line 1364.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1366.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1367.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1368.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1369.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1370.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1371.
+))
+(/home/angel/.miktex/texmfs/install/tex/latex/graphics/graphicx.sty
+Package: graphicx 2017/06/01 v1.1a Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/home/angel/.miktex/texmfs/install/tex/latex/graphics/graphics.sty
+Package: graphics 2017/06/25 v1.2c Standard LaTeX Graphics (DPC,SPQR)
+
+(/home/angel/.miktex/texmfs/install/tex/latex/graphics/trig.sty
+Package: trig 2016/01/03 v1.10 sin cos tan (DPC)
+)
+(/home/angel/.miktex/texmfs/install/tex/latex/graphics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 99.
+)
+\Gin@req@height=\dimen106
+\Gin@req@width=\dimen107
+)
+\AM@pagewidth=\dimen108
+\AM@pageheight=\dimen109
+
+(/home/angel/.miktex/texmfs/install/tex/latex/pdfpages/pppdftex.def
+File: pppdftex.def 2017/10/31 v0.5l Pdfpages driver for pdfTeX (AM)
+)
+\AM@pagebox=\box27
+\AM@global@opts=\toks18
+\AM@toc@title=\toks19
+\c@AM@survey=\count94
+\AM@templatesizebox=\box28
+)
+(portafolioFlujo.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+)
+\openout1 = `portafolioFlujo.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Info: Redefining \. on input line 13.
+LaTeX Info: Redefining \% on input line 13.
+\AtBeginShipoutBox=\box29
+
+(/home/angel/.miktex/texmfs/install/tex/context/base/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count95
+\scratchdimen=\dimen110
+\scratchbox=\box30
+\nofMPsegments=\count96
+\nofMParguments=\count97
+\everyMPshowfont=\toks20
+\MPscratchCnt=\count98
+\MPscratchDim=\dimen111
+\MPnumerator=\count99
+\makeMPintoPDFobject=\count100
+\everyMPtoPDFconversion=\toks21
+) (/home/angel/.miktex/texmfs/install/tex/latex/oberdiek/epstopdf-base.sty
+Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
+
+(/home/angel/.miktex/texmfs/install/tex/latex/oberdiek/grfext.sty
+Package: grfext 2016/05/16 v1.2 Manage graphics extensions (HO)
+
+(/home/angel/.miktex/texmfs/install/tex/generic/oberdiek/kvdefinekeys.sty
+Package: kvdefinekeys 2016/05/16 v1.4 Define keys (HO)
+))
+(/home/angel/.miktex/texmfs/install/tex/latex/oberdiek/kvoptions.sty
+Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+
+(/home/angel/.miktex/texmfs/install/tex/generic/oberdiek/kvsetkeys.sty
+Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
+
+(/home/angel/.miktex/texmfs/install/tex/generic/oberdiek/etexcmds.sty
+Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
+
+(/home/angel/.miktex/texmfs/install/tex/generic/oberdiek/ifluatex.sty
+Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
+Package ifluatex Info: LuaTeX not detected.
+))))
+(/home/angel/.miktex/texmfs/install/tex/generic/oberdiek/pdftexcmds.sty
+Package: pdftexcmds 2018/09/10 v0.29 Utility functions of pdfTeX for LuaTeX (HO
+)
+Package pdftexcmds Info: LuaTeX not detected.
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+38.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 456.
+)
+(/home/angel/.miktex/texmfs/install/tex/latex/oberdiek/pdflscape.sty
+Package: pdflscape 2016/05/14 v0.11 Display of landscape pages in PDF (HO)
+
+(/home/angel/.miktex/texmfs/install/tex/latex/graphics/lscape.sty
+Package: lscape 2000/10/22 v3.01 Landscape Pages (DPC)
+)
+Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
+
+(/home/angel/.miktex/texmfs/install/tex/generic/ifxetex/ifxetex.sty
+Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
+))
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <12> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 15.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 15.
+ [1
+
+{/home/angel/.miktex/texmfs/data/pdftex/config/pdftex.map}]
+<../Evaluaciones/5175-1.pdf, id=7, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf  used on input line 19.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf  used on input line 19.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<../Evaluaciones/5175-1.pdf, id=10, page=1, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page1 used on input line 
+19.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page1 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page1 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page1 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page1 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [1 <../Evaluaciones/5175-1.pdf>]
+<../Evaluaciones/5175-1.pdf, id=52, page=2, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 2>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page2 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 2>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page2 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 2>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page2 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [2 <../Evaluaciones/5175-1.pdf>]
+<../Evaluaciones/5175-1.pdf, id=64, page=3, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 3>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page3 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 3>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page3 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 3>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page3 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [3 <../Evaluaciones/5175-1.pdf>]
+<../Evaluaciones/5175-1.pdf, id=72, page=4, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 4>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page4 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 4>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page4 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 4>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page4 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+[4 <../Evaluaciones/5175-1.pdf>]
+<../Evaluaciones/5175-1.pdf, id=84, page=5, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 5>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page5 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 5>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page5 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 5>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page5 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [5 <../Evaluaciones/5175-1.pdf>]
+<../Evaluaciones/5175-1.pdf, id=96, page=6, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 6>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page6 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 6>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page6 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 6>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page6 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [6 <../Evaluaciones/5175-1.pdf>]
+<../Evaluaciones/5175-1.pdf, id=105, page=7, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 7>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page7 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 7>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page7 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 7>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page7 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [7 <../Evaluaciones/5175-1.pdf>]
+<../Evaluaciones/5175-1.pdf, id=117, page=8, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 8>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page8 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 8>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page8 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-1.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-1.pdf, page 8>
+Package pdftex.def Info: ../Evaluaciones/5175-1.pdf , page8 used on input line 
+19.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [8 <../Evaluaciones/5175-1.pdf>]
+<../tarea1/tarea1.pdf, id=125, 597.50829pt x 845.0471pt>
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf>
+Package pdftex.def Info: ../tarea1/tarea1.pdf  used on input line 20.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf>
+Package pdftex.def Info: ../tarea1/tarea1.pdf  used on input line 20.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<../tarea1/tarea1.pdf, id=128, page=1, 597.50829pt x 845.0471pt>
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 1>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page1 used on input line 20.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 1>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page1 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 1>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page1 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 1>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page1 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 1>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page1 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [9 <../tarea1/tarea1.pdf>]
+<../tarea1/tarea1.pdf, id=152, page=2, 597.50829pt x 845.0471pt>
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 2>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page2 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 2>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page2 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 2>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page2 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [10 <../tarea1/tarea1.pdf>]
+<../tarea1/tarea1.pdf, id=165, page=3, 597.50829pt x 845.0471pt>
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 3>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page3 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 3>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page3 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 3>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page3 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [11 <../tarea1/tarea1.pdf>]
+<../tarea1/tarea1.pdf, id=174, page=4, 597.50829pt x 845.0471pt>
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 4>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page4 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 4>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page4 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 4>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page4 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [12 <../tarea1/tarea1.pdf>]
+<../tarea1/tarea1.pdf, id=182, page=5, 597.50829pt x 845.0471pt>
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 5>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page5 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 5>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page5 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 5>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page5 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [13 <../tarea1/tarea1.pdf>]
+<../tarea1/tarea1.pdf, id=191, page=6, 597.50829pt x 845.0471pt>
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 6>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page6 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 6>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page6 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 6>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page6 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [14 <../tarea1/tarea1.pdf>]
+<../tarea1/tarea1.pdf, id=198, page=7, 597.50829pt x 845.0471pt>
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 7>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page7 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 7>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page7 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 7>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page7 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [15 <../tarea1/tarea1.pdf>]
+<../tarea1/tarea1.pdf, id=207, page=8, 597.50829pt x 845.0471pt>
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 8>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page8 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 8>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page8 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 8>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page8 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [16 <../tarea1/tarea1.pdf>]
+<../tarea1/tarea1.pdf, id=214, page=9, 597.50829pt x 845.0471pt>
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 9>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page9 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 9>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page9 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 9>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page9 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+[17 <../tarea1/tarea1.pdf>]
+<../tarea1/tarea1.pdf, id=223, page=10, 597.50829pt x 845.0471pt>
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 10>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page10 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 10>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page10 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea1/tarea1.pdf Graphic file (type pdf)
+<use ../tarea1/tarea1.pdf, page 10>
+Package pdftex.def Info: ../tarea1/tarea1.pdf , page10 used on input line 20.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [18 <../tarea1/tarea1.pdf>]
+<../Evaluaciones/5175-2.pdf, id=243, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf  used on input line 21.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf  used on input line 21.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<../Evaluaciones/5175-2.pdf, id=246, page=1, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page1 used on input line 
+21.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page1 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page1 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page1 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page1 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [19 <../Evaluaciones/5175-2.pdf>]
+<../Evaluaciones/5175-2.pdf, id=275, page=2, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 2>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page2 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 2>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page2 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 2>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page2 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [20 <../Evaluaciones/5175-2.pdf>]
+<../Evaluaciones/5175-2.pdf, id=279, page=3, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 3>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page3 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 3>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page3 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 3>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page3 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [21 <../Evaluaciones/5175-2.pdf>]
+<../Evaluaciones/5175-2.pdf, id=283, page=4, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 4>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page4 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 4>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page4 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 4>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page4 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+[22 <../Evaluaciones/5175-2.pdf>]
+<../Evaluaciones/5175-2.pdf, id=287, page=5, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 5>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page5 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 5>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page5 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 5>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page5 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [23 <../Evaluaciones/5175-2.pdf>]
+<../Evaluaciones/5175-2.pdf, id=295, page=6, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 6>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page6 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 6>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page6 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-2.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-2.pdf, page 6>
+Package pdftex.def Info: ../Evaluaciones/5175-2.pdf , page6 used on input line 
+21.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [24 <../Evaluaciones/5175-2.pdf>]
+<../tarea2/homework2.pdf, id=306, 597.50829pt x 845.0471pt>
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf>
+Package pdftex.def Info: ../tarea2/homework2.pdf  used on input line 22.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf>
+Package pdftex.def Info: ../tarea2/homework2.pdf  used on input line 22.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<../tarea2/homework2.pdf, id=309, page=1, 597.50829pt x 845.0471pt>
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 1>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page1 used on input line 22.
+
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 1>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page1 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 1>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page1 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 1>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page1 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 1>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page1 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [25 <../tarea2/homework2.pdf>]
+<../tarea2/homework2.pdf, id=326, page=2, 597.50829pt x 845.0471pt>
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 2>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page2 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 2>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page2 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 2>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page2 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [26 <../tarea2/homework2.pdf>]
+<../tarea2/homework2.pdf, id=347, page=3, 597.50829pt x 845.0471pt>
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 3>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page3 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 3>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page3 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 3>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page3 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [27 <../tarea2/homework2.pdf>]
+<../tarea2/homework2.pdf, id=361, page=4, 597.50829pt x 845.0471pt>
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 4>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page4 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 4>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page4 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 4>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page4 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [28 <../tarea2/homework2.pdf>]
+<../tarea2/homework2.pdf, id=387, page=5, 597.50829pt x 845.0471pt>
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 5>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page5 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 5>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page5 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 5>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page5 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [29 <../tarea2/homework2.pdf>]
+<../tarea2/homework2.pdf, id=413, page=6, 597.50829pt x 845.0471pt>
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 6>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page6 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 6>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page6 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 6>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page6 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [30 <../tarea2/homework2.pdf>]
+<../tarea2/homework2.pdf, id=428, page=7, 597.50829pt x 845.0471pt>
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 7>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page7 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 7>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page7 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 7>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page7 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [31 <../tarea2/homework2.pdf>]
+<../tarea2/homework2.pdf, id=459, page=8, 597.50829pt x 845.0471pt>
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 8>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page8 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 8>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page8 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 8>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page8 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [32 <../tarea2/homework2.pdf>]
+<../tarea2/homework2.pdf, id=481, page=9, 597.50829pt x 845.0471pt>
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 9>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page9 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 9>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page9 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 9>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page9 used on input line 22.
+
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [33 <../tarea2/homework2.pdf>]
+<../tarea2/homework2.pdf, id=497, page=10, 597.50829pt x 845.0471pt>
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 10>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page10 used on input line 22
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 10>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page10 used on input line 22
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea2/homework2.pdf Graphic file (type pdf)
+<use ../tarea2/homework2.pdf, page 10>
+Package pdftex.def Info: ../tarea2/homework2.pdf , page10 used on input line 22
+.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [34 <../tarea2/homework2.pdf>]
+<../Evaluaciones/5175-3.pdf, id=510, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf  used on input line 24.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf  used on input line 24.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<../Evaluaciones/5175-3.pdf, id=513, page=1, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page1 used on input line 
+24.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page1 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page1 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page1 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page1 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [35 <../Evaluaciones/5175-3.pdf>]
+<../Evaluaciones/5175-3.pdf, id=553, page=2, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 2>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page2 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 2>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page2 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 2>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page2 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [36 <../Evaluaciones/5175-3.pdf>]
+<../Evaluaciones/5175-3.pdf, id=559, page=3, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 3>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page3 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 3>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page3 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 3>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page3 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [37 <../Evaluaciones/5175-3.pdf>]
+<../Evaluaciones/5175-3.pdf, id=563, page=4, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 4>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page4 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 4>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page4 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 4>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page4 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [38 <../Evaluaciones/5175-3.pdf>]
+<../Evaluaciones/5175-3.pdf, id=567, page=5, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 5>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page5 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 5>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page5 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 5>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page5 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+[39 <../Evaluaciones/5175-3.pdf>]
+<../Evaluaciones/5175-3.pdf, id=571, page=6, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 6>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page6 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 6>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page6 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 6>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page6 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [40 <../Evaluaciones/5175-3.pdf>]
+<../Evaluaciones/5175-3.pdf, id=579, page=7, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 7>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page7 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 7>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page7 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 7>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page7 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [41 <../Evaluaciones/5175-3.pdf>]
+<../Evaluaciones/5175-3.pdf, id=583, page=8, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 8>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page8 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 8>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page8 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-3.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-3.pdf, page 8>
+Package pdftex.def Info: ../Evaluaciones/5175-3.pdf , page8 used on input line 
+24.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [42 <../Evaluaciones/5175-3.pdf>]
+<../Evaluaciones/5175-4.pdf, id=590, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-4.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-4.pdf>
+Package pdftex.def Info: ../Evaluaciones/5175-4.pdf  used on input line 25.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../Evaluaciones/5175-4.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-4.pdf>
+Package pdftex.def Info: ../Evaluaciones/5175-4.pdf  used on input line 25.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<../Evaluaciones/5175-4.pdf, id=593, page=1, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-4.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-4.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-4.pdf , page1 used on input line 
+25.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../Evaluaciones/5175-4.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-4.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-4.pdf , page1 used on input line 
+25.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-4.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-4.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-4.pdf , page1 used on input line 
+25.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-4.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-4.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-4.pdf , page1 used on input line 
+25.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-4.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-4.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-4.pdf , page1 used on input line 
+25.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [43 <../Evaluaciones/5175-4.pdf>]
+<../Evaluaciones/5175-4.pdf, id=619, page=2, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-4.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-4.pdf, page 2>
+Package pdftex.def Info: ../Evaluaciones/5175-4.pdf , page2 used on input line 
+25.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-4.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-4.pdf, page 2>
+Package pdftex.def Info: ../Evaluaciones/5175-4.pdf , page2 used on input line 
+25.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-4.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-4.pdf, page 2>
+Package pdftex.def Info: ../Evaluaciones/5175-4.pdf , page2 used on input line 
+25.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [44 <../Evaluaciones/5175-4.pdf>]
+<../Evaluaciones/5175-4.pdf, id=630, page=3, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-4.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-4.pdf, page 3>
+Package pdftex.def Info: ../Evaluaciones/5175-4.pdf , page3 used on input line 
+25.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-4.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-4.pdf, page 3>
+Package pdftex.def Info: ../Evaluaciones/5175-4.pdf , page3 used on input line 
+25.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-4.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-4.pdf, page 3>
+Package pdftex.def Info: ../Evaluaciones/5175-4.pdf , page3 used on input line 
+25.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [45 <../Evaluaciones/5175-4.pdf>]
+<../Evaluaciones/5175-4.pdf, id=636, page=4, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-4.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-4.pdf, page 4>
+Package pdftex.def Info: ../Evaluaciones/5175-4.pdf , page4 used on input line 
+25.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-4.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-4.pdf, page 4>
+Package pdftex.def Info: ../Evaluaciones/5175-4.pdf , page4 used on input line 
+25.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-4.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-4.pdf, page 4>
+Package pdftex.def Info: ../Evaluaciones/5175-4.pdf , page4 used on input line 
+25.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+[46 <../Evaluaciones/5175-4.pdf>]
+<../tarea4/tarea4.pdf, id=650, 597.50829pt x 845.0471pt>
+File: ../tarea4/tarea4.pdf Graphic file (type pdf)
+<use ../tarea4/tarea4.pdf>
+Package pdftex.def Info: ../tarea4/tarea4.pdf  used on input line 26.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../tarea4/tarea4.pdf Graphic file (type pdf)
+<use ../tarea4/tarea4.pdf>
+Package pdftex.def Info: ../tarea4/tarea4.pdf  used on input line 26.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<../tarea4/tarea4.pdf, id=653, page=1, 597.50829pt x 845.0471pt>
+File: ../tarea4/tarea4.pdf Graphic file (type pdf)
+<use ../tarea4/tarea4.pdf, page 1>
+Package pdftex.def Info: ../tarea4/tarea4.pdf , page1 used on input line 26.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../tarea4/tarea4.pdf Graphic file (type pdf)
+<use ../tarea4/tarea4.pdf, page 1>
+Package pdftex.def Info: ../tarea4/tarea4.pdf , page1 used on input line 26.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea4/tarea4.pdf Graphic file (type pdf)
+<use ../tarea4/tarea4.pdf, page 1>
+Package pdftex.def Info: ../tarea4/tarea4.pdf , page1 used on input line 26.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea4/tarea4.pdf Graphic file (type pdf)
+<use ../tarea4/tarea4.pdf, page 1>
+Package pdftex.def Info: ../tarea4/tarea4.pdf , page1 used on input line 26.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea4/tarea4.pdf Graphic file (type pdf)
+<use ../tarea4/tarea4.pdf, page 1>
+Package pdftex.def Info: ../tarea4/tarea4.pdf , page1 used on input line 26.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [47 <../tarea4/tarea4.pdf>]
+<../tarea4/tarea4.pdf, id=676, page=2, 597.50829pt x 845.0471pt>
+File: ../tarea4/tarea4.pdf Graphic file (type pdf)
+<use ../tarea4/tarea4.pdf, page 2>
+Package pdftex.def Info: ../tarea4/tarea4.pdf , page2 used on input line 26.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea4/tarea4.pdf Graphic file (type pdf)
+<use ../tarea4/tarea4.pdf, page 2>
+Package pdftex.def Info: ../tarea4/tarea4.pdf , page2 used on input line 26.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea4/tarea4.pdf Graphic file (type pdf)
+<use ../tarea4/tarea4.pdf, page 2>
+Package pdftex.def Info: ../tarea4/tarea4.pdf , page2 used on input line 26.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [48 <../tarea4/tarea4.pdf>]
+<../tarea4/tarea4.pdf, id=720, page=3, 597.50829pt x 845.0471pt>
+File: ../tarea4/tarea4.pdf Graphic file (type pdf)
+<use ../tarea4/tarea4.pdf, page 3>
+Package pdftex.def Info: ../tarea4/tarea4.pdf , page3 used on input line 26.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea4/tarea4.pdf Graphic file (type pdf)
+<use ../tarea4/tarea4.pdf, page 3>
+Package pdftex.def Info: ../tarea4/tarea4.pdf , page3 used on input line 26.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea4/tarea4.pdf Graphic file (type pdf)
+<use ../tarea4/tarea4.pdf, page 3>
+Package pdftex.def Info: ../tarea4/tarea4.pdf , page3 used on input line 26.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [49 <../tarea4/tarea4.pdf>]
+<../tarea4/tarea4.pdf, id=764, page=4, 597.50829pt x 845.0471pt>
+File: ../tarea4/tarea4.pdf Graphic file (type pdf)
+<use ../tarea4/tarea4.pdf, page 4>
+Package pdftex.def Info: ../tarea4/tarea4.pdf , page4 used on input line 26.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea4/tarea4.pdf Graphic file (type pdf)
+<use ../tarea4/tarea4.pdf, page 4>
+Package pdftex.def Info: ../tarea4/tarea4.pdf , page4 used on input line 26.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea4/tarea4.pdf Graphic file (type pdf)
+<use ../tarea4/tarea4.pdf, page 4>
+Package pdftex.def Info: ../tarea4/tarea4.pdf , page4 used on input line 26.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [50 <../tarea4/tarea4.pdf>]
+<../Evaluaciones/5175-5.pdf, id=777, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf  used on input line 27.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf  used on input line 27.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<../Evaluaciones/5175-5.pdf, id=780, page=1, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page1 used on input line 
+27.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page1 used on input line 
+27.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page1 used on input line 
+27.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page1 used on input line 
+27.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 1>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page1 used on input line 
+27.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [51 <../Evaluaciones/5175-5.pdf>]
+<../Evaluaciones/5175-5.pdf, id=802, page=2, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 2>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page2 used on input line 
+27.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 2>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page2 used on input line 
+27.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 2>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page2 used on input line 
+27.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [52 <../Evaluaciones/5175-5.pdf>]
+<../Evaluaciones/5175-5.pdf, id=806, page=3, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 3>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page3 used on input line 
+27.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 3>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page3 used on input line 
+27.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 3>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page3 used on input line 
+27.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [53 <../Evaluaciones/5175-5.pdf>]
+<../Evaluaciones/5175-5.pdf, id=812, page=4, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 4>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page4 used on input line 
+27.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 4>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page4 used on input line 
+27.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 4>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page4 used on input line 
+27.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [54 <../Evaluaciones/5175-5.pdf>]
+<../Evaluaciones/5175-5.pdf, id=817, page=5, 597.50829pt x 845.0471pt>
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 5>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page5 used on input line 
+27.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 5>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page5 used on input line 
+27.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../Evaluaciones/5175-5.pdf Graphic file (type pdf)
+<use ../Evaluaciones/5175-5.pdf, page 5>
+Package pdftex.def Info: ../Evaluaciones/5175-5.pdf , page5 used on input line 
+27.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [55 <../Evaluaciones/5175-5.pdf>]
+<../tarea5/tarea5.pdf, id=825, 597.50829pt x 845.0471pt>
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf>
+Package pdftex.def Info: ../tarea5/tarea5.pdf  used on input line 28.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf>
+Package pdftex.def Info: ../tarea5/tarea5.pdf  used on input line 28.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+<../tarea5/tarea5.pdf, id=828, page=1, 597.50829pt x 845.0471pt>
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 1>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page1 used on input line 28.
+(pdftex.def)             Requested size: 597.50682pt x 845.04504pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 1>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page1 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 1>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page1 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 1>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page1 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 1>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page1 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+
+[56 <../tarea5/tarea5.pdf>]
+<../tarea5/tarea5.pdf, id=857, page=2, 597.50829pt x 845.0471pt>
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 2>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page2 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 2>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page2 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 2>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page2 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [57 <../tarea5/tarea5.pdf>]
+<../tarea5/tarea5.pdf, id=996, page=3, 597.50829pt x 845.0471pt>
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 3>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page3 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 3>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page3 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 3>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page3 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [58 <../tarea5/tarea5.pdf>]
+<../tarea5/tarea5.pdf, id=1134, page=4, 597.50829pt x 845.0471pt>
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 4>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page4 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 4>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page4 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 4>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page4 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [59 <../tarea5/tarea5.pdf>]
+<../tarea5/tarea5.pdf, id=1294, page=5, 597.50829pt x 845.0471pt>
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 5>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page5 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 5>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page5 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 5>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page5 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [60 <../tarea5/tarea5.pdf>]
+<../tarea5/tarea5.pdf, id=1454, page=6, 597.50829pt x 845.0471pt>
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 6>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page6 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 6>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page6 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 6>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page6 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [61 <../tarea5/tarea5.pdf>]
+<../tarea5/tarea5.pdf, id=1601, page=7, 597.50829pt x 845.0471pt>
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 7>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page7 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 7>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page7 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 7>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page7 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [62 <../tarea5/tarea5.pdf>]
+<../tarea5/tarea5.pdf, id=1740, page=8, 597.50829pt x 845.0471pt>
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 8>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page8 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 8>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page8 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 8>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page8 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [63 <../tarea5/tarea5.pdf>]
+<../tarea5/tarea5.pdf, id=1864, page=9, 597.50829pt x 845.0471pt>
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 9>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page9 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 9>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page9 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 9>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page9 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [64 <../tarea5/tarea5.pdf>]
+<../tarea5/tarea5.pdf, id=1901, page=10, 597.50829pt x 845.0471pt>
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 10>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page10 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 10>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page10 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 10>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page10 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [65 <../tarea5/tarea5.pdf>]
+<../tarea5/tarea5.pdf, id=1905, page=11, 597.50829pt x 845.0471pt>
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 11>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page11 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 11>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page11 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 11>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page11 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [66 <../tarea5/tarea5.pdf>]
+<../tarea5/tarea5.pdf, id=1910, page=12, 597.50829pt x 845.0471pt>
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 12>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page12 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 12>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page12 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+File: ../tarea5/tarea5.pdf Graphic file (type pdf)
+<use ../tarea5/tarea5.pdf, page 12>
+Package pdftex.def Info: ../tarea5/tarea5.pdf , page12 used on input line 28.
+(pdftex.def)             Requested size: 597.53416pt x 845.08372pt.
+ [67 <../tarea5/tarea5.pdf>] (portafolioFlujo.aux
+LaTeX Info: Redefining \. on input line 6.
+LaTeX Info: Redefining \% on input line 6.
+) ) 
+Here is how much of TeX's memory you used:
+ 3944 strings out of 494864
+ 62118 string characters out of 3178303
+ 126419 words of memory out of 3000000
+ 7524 multiletter control sequences out of 15000+200000
+ 6675 words of font info for 24 fonts, out of 3000000 for 9000
+ 0 hyphenation exceptions out of 8191
+ 41i,18n,46p,284b,433s stack positions out of 5000i,500n,10000p,200000b,50000s
+</home/angel/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx10.pf
+b></home/angel/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb
+></home/angel/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmcsc10.pfb
+></home/angel/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmex10.pfb>
+</home/angel/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi12.pfb><
+/home/angel/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmmi8.pfb></h
+ome/angel/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr10.pfb></hom
+e/angel/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr12.pfb></home/
+angel/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr17.pfb></home/an
+gel/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr6.pfb></home/angel
+/.miktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmr8.pfb></home/angel/.m
+iktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy10.pfb></home/angel/.mi
+ktex/texmfs/install/fonts/type1/public/amsfonts/cm/cmsy8.pfb></home/angel/.mikt
+ex/texmfs/install/fonts/type1/public/amsfonts/cm/cmti12.pfb></home/angel/.mikte
+x/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt10.pfb></home/angel/.miktex
+/texmfs/install/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
+Output written on portafolioFlujo.pdf (68 pages, 2223382 bytes).
+PDF statistics:
+ 1942 PDF objects out of 2073 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 471 words of extra memory for PDF output out of 10000 (max. 10000000)
+
