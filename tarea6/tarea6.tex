@@ -1,0 +1,40 @@
+\documentclass[12pt, a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{amsmath}
+\usepackage{amsfonts}
+\usepackage{amssymb}
+\usepackage{graphicx}
+\usepackage{float}
+\usepackage{listings}
+\usepackage{multirow}
+\usepackage{color}
+
+\usepackage[left=2cm,right=2cm,top=2cm,bottom=2cm]{geometry}
+
+\author{5175: \'Angel Moreno \\ Tarea \# 6: Complejidad asintótica experimental}
+\title{Optimizaci\'on flujo en redes}
+
+\begin{document}
+\maketitle
+
+\section*{Seleccion de proyecto}
+
+Sea $P$ el conjunto de los posibles proyectos. Cada proyecto $v \in P$ tiene asociado un ingreso $p_{v}$. Algunas combinaciones de proyectos generan beneficio y otros generan costo. Algunos proyectos no pueden empezar hasta que que otros proyectos esten terminados. Sea $D$ es el conjunto de dependencia que es un grafo aciclico, donde la arista $i \to j$ indica que el proyecto $i$ depende de $j$. El problema consiste en encontrar un subconjunto de proyectos donde el ingreso sea maximo, en dado caso si el ingreso es negativo la solucion es no hacer nada.
+
+Definimos un nuevo gráfico G agregando un vértice de origen $s$ y un vértice de destino $t$ del conjunto $D$, con la arista $s \to t$ para cada trabajo rentable (con $p_j> 0$), y con la arista $i \to t$ un costo de
+trabajo (con $p_i <0$). Asignamos capacidades de borde de la siguiente manera:
+\begin{itemize}
+\item $c(s \to j) = p_{j}$ para todo trabajo $j$ rentable
+\item $c(i \to t) = -p_{i}$ para todo costo de trabajo $i$
+\item $c(i \to j) = \infty$ para todo arista dependiente $i \to j$
+\end{itemize}
+
+Para todo subconjunto $A$ de proyectos, se definen tres funciones:
+\[ cost(A) := \sum_{i \in A: p_i < 0} -p_i = \sum_{i \ in A} c(i \to j) \]
+\[ benefit(A) := \sum_{j \in A: p_i > 0} p_j = \sum_{j \in A} c(s \to j) \]
+\[ profit(A) := \sum_{i \in A} p_i = benefit(A) - cost(A) \]
+
+
+\end{document}
